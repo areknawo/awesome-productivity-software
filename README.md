@@ -27,12 +27,12 @@ and project planning software;
 * [**Taiga**](https://taiga.io/) [Multi-platform / *Freemium* & [*Open-source*](https://github.com/taigaio/)] - Project management platform for proffesionals;
 * [**GitKraken & Glo Boards**](https://www.gitkraken.com/glo) [Desktop / *Free for Open-source* & *Paid*] - Git client aimed at proffesionals & supporting open-source development; 
 ## Notes
-* [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one workspace - writing, planning and collaboration tool;
 * [**Checkvist**](https://checkvist.com/) [Web / *Freemium* ] - Keyboard-centric outliner and task manager for geeks;
 * [**WorkFlowy**](https://www.workflowy.com/) [Web / *Freemium*] - Infinite document to organize your life;
 * [**Coda**](https://coda.io/) [Web + iOS / *Free*] - Powerful management, note-taking and collaboration software;
 * [**Google Keep**](https://www.google.com/keep/) [Multi-platform / *Free*] - Note taking on the go; 
 * [**DECS**](https://app.decs.xyz/) [Web / *Free*] - decentralized workspaces for collecting code snippets and sensitive data;
 ## Multi-Purpose
+* [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Miro**](https://miro.com/) [Multi-platform / *Freemium*] - Whiteboard for visual collaboration;
 * [**Quire**](https://quire.io/) [Multi-platform / *Freemium*] - Kanban, To-dos and management all-in-one tool;
