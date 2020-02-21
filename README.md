@@ -37,3 +37,4 @@ and project planning software;
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Miro**](https://miro.com/) [Multi-platform / *Freemium*] - Whiteboard for visual collaboration;
 * [**Quire**](https://quire.io/) [Multi-platform / *Freemium*] - Kanban, To-dos and management all-in-one tool;
+* [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams.
