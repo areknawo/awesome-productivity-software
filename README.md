@@ -5,7 +5,6 @@
 * [**Any.do**](https://www.any.do/) [Multi-platform / *Freemium*] - To-do list app with calendar, planner & reminders;
 * [**Todoist**](https://todoist.com/) [Multi-platform / *Freemium*] -To-do app tailored at project-management;
 * [**TickTick**](https://ticktick.com/) [Multi-platform / *Freemium*] - To-do list, checklist and task manager;
-* [**Wunderlist**](https://www.wunderlist.com/) [Multi-platform / *Free*] - Simple and intuitive To-do list;
 * [**Microsoft To-Do**](https://todo.microsoft.com/) [Multi-platform / *Free*] - To-do list to get stuff done;
 * [**Taskwarrior**](https://taskwarrior.org/) [Desktop / *Free* & [*Open-source*](https://github.com/GothenburgBitFactory/taskwarrior)] - To-do list management from your command line;
 * [**Checklist**](https://checklist.com/) [Multi-platform / *Freemium*] - Simple runnable checklists;
