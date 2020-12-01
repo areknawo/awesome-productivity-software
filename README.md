@@ -32,6 +32,7 @@ and project planning software;
 * [**Coda**](https://coda.io/) [Web + iOS / *Free*] - Powerful management, note-taking and collaboration software;
 * [**Google Keep**](https://www.google.com/keep/) [Multi-platform / *Free*] - Note taking on the go; 
 * [**DECS**](https://app.decs.xyz/) [Web / *Free*] - decentralized workspaces for collecting code snippets and sensitive data;
+- [**Yana**](https://yana.js.org) [Multi-platform / *Free*] Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 ## Multi-Purpose
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Miro**](https://miro.com/) [Multi-platform / *Freemium*] - Whiteboard for visual collaboration;
