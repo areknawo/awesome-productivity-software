@@ -11,6 +11,7 @@
 ## Charts
 * [**Lucidchart**](http://lucidchart.com/) [Multi-platform / *Freemium*] - Diagramming software and visual solution;
 * [**Draw.io**](https://www.draw.io/) [Web / *Free* & [*Open-source*](https://github.com/jgraph/drawio)] - Online & offline diagramming tool;
+* [**Visual Paradigm**](https://www.visual-paradigm.com/) [Multii-platform / *Freemium] - Diagramming software and visual solution;
 ## Mind Maps
 * [**iMindMap**](https://imindmap.com/) [Desktop / *Paid*] - Mind-mapping, brainstorming  
 and project planning software;
@@ -26,6 +27,7 @@ and project planning software;
 * [**Restyaboard**](https://restya.com/board) [Web / *Freemium* & [*Open-source*](https://github.com/RestyaPlatform/board)] - Trello-like kanban, to-do and chat tool;
 * [**Taiga**](https://taiga.io/) [Multi-platform / *Freemium* & [*Open-source*](https://github.com/taigaio/)] - Project management platform for proffesionals;
 * [**GitKraken & Glo Boards**](https://www.gitkraken.com/glo) [Desktop / *Free for Open-source* & *Paid*] - Git client aimed at proffesionals & supporting open-source development; 
+* [**Github Boards**](https://docs.github.com/en/enterprise-cloud@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) [Multi-platform] - GitHub Kanban boards built into each repo;
 ## Notes
 * [**Checkvist**](https://checkvist.com/) [Web / *Freemium* ] - Keyboard-centric outliner and task manager for geeks;
 * [**WorkFlowy**](https://www.workflowy.com/) [Web / *Freemium*] - Infinite document to organize your life;
