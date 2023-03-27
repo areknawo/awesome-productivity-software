@@ -35,6 +35,7 @@ and project planning software;
 * [**Yana**](https://yana.js.org) [Multi-platform / *Free*] Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more;
 ## Multi-Purpose
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
+* [**Clipboard**](https://getclipboard.app/) [Multi-platform / *Free* & [*Open-source*](https://github.com/Slackadays/Clipboard)] - Easy-to-use data management tool that acts like an external brain.
 * [**Miro**](https://miro.com/) [Multi-platform / *Freemium*] - Whiteboard for visual collaboration;
 * [**Quire**](https://quire.io/) [Multi-platform / *Freemium*] - Kanban, To-dos and management all-in-one tool;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams.
