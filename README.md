@@ -33,6 +33,8 @@ and project planning software;
 * [**Google Keep**](https://www.google.com/keep/) [Multi-platform / *Free*] - Note taking on the go; 
 * [**DECS**](https://app.decs.xyz/) [Web / *Free*] - decentralized workspaces for collecting code snippets and sensitive data;
 * [**Yana**](https://yana.js.org) [Multi-platform / *Free*] Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more;
+## Pomodoro timers
+* [**Yellow Tomato**](https://productive.fish/pomodoro-timer/) [Web / *Free*] - Simple timer for Pomodoro technique;
 ## Multi-Purpose
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Clipboard**](https://getclipboard.app/) [Multi-platform / *Free* & [*Open-source*](https://github.com/Slackadays/Clipboard)] - Easy-to-use data management tool that acts like an external brain.
