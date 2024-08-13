@@ -42,3 +42,4 @@ and project planning software;
 * [**Quire**](https://quire.io/) [Multi-platform / *Freemium*] - Kanban, To-dos and management all-in-one tool;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams.
 * [**Notyfy**](https://notyfy.co/) [Multi-platform / *Free*] - All your web notifications in one place.
+* [**WebCull**](https://webcull.com/) [Web / Extensions / *Freemium*] - Your web resources securely organized in one place.
