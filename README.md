@@ -43,3 +43,4 @@ and project planning software;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams.
 * [**Notyfy**](https://notyfy.co/) [Multi-platform / *Free*] - All your web notifications in one place.
 * [**WebCull**](https://webcull.com/) [Web / Extensions / *Freemium*] - Your web resources securely organized in one place.
+* [**Study Near Me**](https://studynearme.com/) [Web / *Free*] - Directory for finding laptop-friendly cafes and workspaces for productive remote work across the US.
