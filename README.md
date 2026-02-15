@@ -1,6 +1,8 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 # Awesome Productivity Software
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 > Community-curated list of awesome life-management & productivity software
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 ## TO-DO Lists
 * [**Any.do**](https://www.any.do/) [Multi-platform / *Freemium*] - To-do list app with calendar, planner & reminders;
 * [**Todoist**](https://todoist.com/) [Multi-platform / *Freemium*] -To-do app tailored at project-management;
