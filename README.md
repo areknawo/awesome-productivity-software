@@ -38,6 +38,7 @@ and project planning software;
 ## Multi-Purpose
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Clipboard**](https://getclipboard.app/) [Multi-platform / *Free* & [*Open-source*](https://github.com/Slackadays/Clipboard)] - Easy-to-use data management tool that acts like an external brain.
+* [**Dorothy**](https://github.com/Charlie85270/Dorothy) [Desktop / *Free* & [*Open-source*](https://github.com/Charlie85270/Dorothy)] - Open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control.
 * [**Miro**](https://miro.com/) [Multi-platform / *Freemium*] - Whiteboard for visual collaboration;
 * [**Quire**](https://quire.io/) [Multi-platform / *Freemium*] - Kanban, To-dos and management all-in-one tool;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams. ([Repo](https://github.com/taskade/taskade))
