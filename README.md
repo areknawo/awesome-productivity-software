@@ -8,6 +8,7 @@
 * [**Microsoft To-Do**](https://todo.microsoft.com/) [Multi-platform / *Free*] - To-do list to get stuff done;
 * [**Taskwarrior**](https://taskwarrior.org/) [Desktop / *Free* & [*Open-source*](https://github.com/GothenburgBitFactory/taskwarrior)] - To-do list management from your command line;
 * [**Checklist**](https://checklist.com/) [Multi-platform / *Freemium*] - Simple runnable checklists;
+* [**Tasquery**](https://tasquery.com) [Web / Free] - Zero-friction bridge to turn messy notes or Slack threads into structured Jira tickets.
 ## Charts
 * [**Lucidchart**](http://lucidchart.com/) [Multi-platform / *Freemium*] - Diagramming software and visual solution;
 * [**Draw.io**](https://www.draw.io/) [Web / *Free* & [*Open-source*](https://github.com/jgraph/drawio)] - Online & offline diagramming tool;
