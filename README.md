@@ -25,7 +25,8 @@ and project planning software;
 * [**Wekan**](https://wekan.github.io/) [Web / *Free* & [*Open-source*](https://github.com/wekan/wekan)] - Open-source kanban solution;
 * [**Restyaboard**](https://restya.com/board) [Web / *Freemium* & [*Open-source*](https://github.com/RestyaPlatform/board)] - Trello-like kanban, to-do and chat tool;
 * [**Taiga**](https://taiga.io/) [Multi-platform / *Freemium* & [*Open-source*](https://github.com/taigaio/)] - Project management platform for proffesionals;
-* [**GitKraken & Glo Boards**](https://www.gitkraken.com/glo) [Desktop / *Free for Open-source* & *Paid*] - Git client aimed at proffesionals & supporting open-source development; 
+* [**GitKraken & Glo Boards**](https://www.gitkraken.com/glo) [Desktop / *Free for Open-source* & *Paid*] - Git client aimed at proffesionals & supporting open-source development;
+* [**Windshift**](https://windshift.sh) [Web / *Free* & [*Open-source*](https://github.com/Windshiftapp/core)] - Free, self-hosted, open-source project management tool;
 ## Notes
 * [**Checkvist**](https://checkvist.com/) [Web / *Freemium* ] - Keyboard-centric outliner and task manager for geeks;
 * [**WorkFlowy**](https://www.workflowy.com/) [Web / *Freemium*] - Infinite document to organize your life;
