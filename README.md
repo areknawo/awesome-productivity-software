@@ -36,6 +36,7 @@ and project planning software;
 ## Pomodoro timers
 * [**Yellow Tomato**](https://productive.fish/pomodoro-timer/) [Web / *Free*] - Simple timer for Pomodoro technique;
 ## Multi-Purpose
+* [**HeyRobyn**](https://heyrobyn.ai) [macOS / *Freemium*] - Native Mac unified inbox for email, Slack, and GitHub. Built with SwiftUI, privacy-first with all data on-device.
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Clipboard**](https://getclipboard.app/) [Multi-platform / *Free* & [*Open-source*](https://github.com/Slackadays/Clipboard)] - Easy-to-use data management tool that acts like an external brain.
 * [**Miro**](https://miro.com/) [Multi-platform / *Freemium*] - Whiteboard for visual collaboration;
